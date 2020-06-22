@@ -4,3 +4,6 @@ Lamia ist die Hauptdarstellerin im Geocache. Sie zeigt sich kurz nach dem Start 
 * Rock
 * Stiefel
 * gestreifter Pullover
+
+Lamia's Aussage:
+> Ich geh nicht zum Zahnarzt!
