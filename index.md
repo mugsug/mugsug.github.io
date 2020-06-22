@@ -7,3 +7,5 @@ Lamia ist die Hauptdarstellerin im Geocache. Sie zeigt sich kurz nach dem Start 
 
 Lamia's Aussage:
 > Ich geh nicht zum Zahnarzt!
+
+<img src="https://cdn.pixabay.com/photo/2020/06/14/09/27/seagull-5297122_960_720.jpg"/>
